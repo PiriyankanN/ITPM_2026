@@ -49,7 +49,7 @@ student-living-assistant/
 - Rooms
 - Inquiries
 - FoodServices
-- BusRoutes
+- BusRoutes- Mubin
 
 ## API Endpoints
 
